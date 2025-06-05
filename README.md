@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm Jeanette, and I'm looking for a full-time position in **full-stack web development**.
+Hi! I'm Jeanette, and I'm looking for a full-time position in **full-stack and/or frontend web development**.
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -8,8 +8,13 @@ Hi! I'm Jeanette, and I'm looking for a full-time position in **full-stack web d
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-2D2E33?logo=react)
 
-## My work
+## Collaborations
 - [Tablature-Generator-Converter](https://github.com/TwinkieGorilla/Tablature-Generator-Converter)
+
+## Current work
+- Building APIs with .NET
+- Building a Next.JS frontend site with React
+- ...And hopefully connect both 😊
 
 Profile Pic generated with [Canva AI](https://www.canva.com/dream-lab)
 <!--
