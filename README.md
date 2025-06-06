@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm Jeanette, and I'm looking for a full-time position in **full-stack and/or frontend web development**.
+Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack and/or frontend web development**.
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
