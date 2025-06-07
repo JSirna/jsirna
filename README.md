@@ -14,7 +14,7 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack an
 ## Current work
 - Building APIs with .NET
 - Building a Next.JS frontend site with React
-- ...And hopefully connect both 😊
+- ...And eventually connect both 😊
 
 Profile Pic generated with [Canva AI](https://www.canva.com/dream-lab)
 <!--
