@@ -16,6 +16,10 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack an
 - Building a Next.JS frontend site with React
 - ...And eventually connect both 😊
 
+## Organizations I've worked with
+- 🏢 [Goodyear](https://github.com/goodyear)
+- 🚀 [COMSAT Architects](https://github.com/comsat-architects)
+
 Profile Pic generated with [Canva AI](https://www.canva.com/dream-lab)
 <!--
 **JSirna/jsirna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
