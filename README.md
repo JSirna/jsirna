@@ -12,7 +12,7 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack an
 - [Tablature-Generator-Converter](https://github.com/TwinkieGorilla/Tablature-Generator-Converter)
 
 ## Current work
-- Building APIs with .NET
+- Building APIs with .NET - [characterDesignApi](https://github.com/JSirna/characterDesignAPI)
 - Building a Next.JS frontend site with React
 - ...And eventually connect both 😊
 
