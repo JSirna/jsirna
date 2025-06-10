@@ -7,6 +7,7 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-2D2E33?logo=react)
+![VueJS](https://img.shields.io/badge/-Vue?style=flat-square&logo=vuedotjs&logoSize=auto&label=VueJS&color=%234FC08D)
 
 ## Collaborations
 - [Tablature-Generator-Converter](https://github.com/TwinkieGorilla/Tablature-Generator-Converter)
