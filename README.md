@@ -21,6 +21,11 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack an
 - 🏢 [Goodyear](https://github.com/goodyear)
 - 🚀 [COMSAT Architects](https://github.com/comsat-architects)
 
+## Currently learning
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/0b4daf00-c20f-49ba-9690-9c9f6eab80a0/thumbnail" >
+</p>
+
 Profile Pic generated with [Canva AI](https://www.canva.com/dream-lab)
 <!--
 **JSirna/jsirna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
