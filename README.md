@@ -7,15 +7,17 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack we
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-2D2E33?logo=react)
-![VueJS](https://img.shields.io/badge/-Vue?style=flat-square&logo=vuedotjs&logoSize=auto&label=VueJS&color=%234FC08D)
+![VueJS](https://img.shields.io/badge/-vuedotjs?style=flat&logo=vuedotjs&label=VueJS&labelColor=%2366000000&color=%2300000000)
+![.NET](https://img.shields.io/badge/-dotnet?logo=dotnet&label=.NET&labelColor=%2366000000&color=%2300000000)
+
 
 ## Collaborations
 - [Tablature-Generator-Converter](https://github.com/TwinkieGorilla/Tablature-Generator-Converter)
 
 ## Current work
-- Building APIs with .NET
-- Building a Next.JS frontend site with React
-- ...And eventually connect both 😊
+- [Utilities](https://github.com/JSirna/Utilities)
+- [Character Design API](https://github.com/JSirna/characterDesignAPI/tree/dev)
+- [Other snippets on CodePen](https://codepen.io/JSirna)
 
 ## Organizations I've worked with
 - 🏢 [Goodyear](https://github.com/goodyear)
@@ -26,8 +28,6 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack we
   <img src="https://api.boot.dev/v1/users/public/0b4daf00-c20f-49ba-9690-9c9f6eab80a0/thumbnail" >
 </p>
 
-## Extras
-- 👩🏻‍💻[CodePen](https://codepen.io/JSirna)
 
 Profile Pic generated with [Canva AI](https://www.canva.com/dream-lab)
 <!--
