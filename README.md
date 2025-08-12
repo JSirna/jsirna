@@ -17,6 +17,7 @@ Hi! I'm Jeanette, and I'm looking for a full-time opportunity in **full-stack we
 ## Current work
 - [Utilities](https://github.com/JSirna/Utilities)
 - [Character Design API](https://github.com/JSirna/characterDesignAPI/tree/dev)
+- [WIP Electron/Static/Frontend CDF app](https://github.com/JSirna/electrified-app/tree/dev)
 - [Other snippets on CodePen](https://codepen.io/JSirna)
 
 ## Organizations I've worked with
