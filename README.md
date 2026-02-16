@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm Jeanette. I'm a software development engineer writing code in the property management industry. 
+Hi! I'm Jeanette. I'm a software development engineer writing code for the property management industry. 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
